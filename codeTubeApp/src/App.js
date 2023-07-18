@@ -3,7 +3,9 @@ import List from "./List";
 import Sidebar from "./components/Sidebar";
 import Navbar from "./components/Navbar";
 import React, { Component } from "react";
+import styled from "styled-components"
 import { Container } from "./reusable.styled";
+
 
 
 class App extends Component {

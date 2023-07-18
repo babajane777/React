@@ -32,7 +32,6 @@ class App extends React.Component {
       <div>
         <h1>Animepedia</h1>
         <AnimeList anime={anime}/>
-        {/* Code here */}
       </div>
     );
   }

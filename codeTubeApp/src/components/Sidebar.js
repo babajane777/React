@@ -2,6 +2,7 @@ import { Component } from "react";
 import { instructors } from "../data";
 import {Button} from "../reusable.styled";
 
+
 class Sidebar extends Component {
   constructor(props) {
     super(props);

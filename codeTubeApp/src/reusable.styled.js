@@ -7,7 +7,10 @@ export const Button = styled.button`
 `;
 
 // Container component with flex property
+
 export const Container = styled.div`
   display: ${(props) => props.display};
   
 `;
+
+
